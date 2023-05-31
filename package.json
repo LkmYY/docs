@@ -1,5 +1,5 @@
 {
-  "name": "vuepress",
+  "name": "my-vuepress-project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,7 +17,8 @@
     "@vuepress/plugin-back-to-top": "^1.9.9",
     "@vuepress/plugin-medium-zoom": "^1.9.9",
     "@vuepress/plugin-theme-data": "^2.0.0-alpha.25",
-    "vue": "^2.7.14"
+    "vue": "^2.7.14",
+    "vuepress": "^1.9.9"
   },
   "devDependencies": {
     "@babel/core": "^7.21.8",

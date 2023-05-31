@@ -1,0 +1,11 @@
+/* 白色主题导航栏样式 */
+.theme-default .navbar {
+  background-color: #ffffff;
+  color: #333333;
+}
+
+/* 黑色主题导航栏样式 */
+.theme-dark .navbar {
+  background-color: #000000;
+  color: #ffffff;
+}

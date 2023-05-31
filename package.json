@@ -1,0 +1,29 @@
+{
+  "name": "vuepress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vuepress/plugin-back-to-top": "^1.9.9",
+    "@vuepress/plugin-medium-zoom": "^1.9.9",
+    "@vuepress/plugin-theme-data": "^2.0.0-alpha.25",
+    "vue": "^2.7.14"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.21.8",
+    "@babel/preset-env": "^7.21.5",
+    "@vuepress/core": "^1.9.9",
+    "vue-loader": "^17.1.1",
+    "vue-template-compiler": "^2.7.14"
+  }
+}

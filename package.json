@@ -18,6 +18,7 @@
     "@vuepress/plugin-medium-zoom": "^1.9.9",
     "@vuepress/plugin-theme-data": "^2.0.0-alpha.25",
     "vue": "^2.7.14",
+    "vue-router": "^4.2.2",
     "vuepress": "^1.9.9"
   },
   "devDependencies": {
